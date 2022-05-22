@@ -53,3 +53,8 @@ p {
 .contact-link {
   color: var(--primary-color);
 }
+
+.croissant-images {
+  display: inline-block;
+  width:300px;
+}
